@@ -182,7 +182,8 @@ p {
 
 .right-banner-content img {
 	border-radius: 50%;
-	max-width: 50%;
+	width: 400px;
+	height: 400px;
 }
 
 .about-me {
