@@ -180,6 +180,10 @@ p {
 	background-color: #abb9c6;
 }
 
+.right-banner-content .img {
+	border-radius: 50%;
+}
+
 .about-me {
 	margin: 10px;
   text-align: left;
