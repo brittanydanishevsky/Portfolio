@@ -63,12 +63,12 @@ p {
 	height: 3px;
 	margin-top: 20px;
 	margin-bottom: 30px;
-	background-color: #f5d0c5;
+	background-color: #f8bba9;
 }
 
 .banner .right-banner-content {
   padding: 20px;
-	background-color: #f5d0c5;
+	background-color: #f8bba9;
 	text-align: center;
 	min-height: 280px;
 	height: 280px;
@@ -168,7 +168,7 @@ p {
 }
 
 .white-border-button a:hover {
-	background-color: #f5d0c5;
+	background-color: #f8bba9;
 }
 
 .black-border-button a {

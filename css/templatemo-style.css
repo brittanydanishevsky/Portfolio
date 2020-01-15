@@ -47,7 +47,7 @@ p {
 }
 
 .white-border-button a:hover {
-	background-color: #f5d0c5;
+	background-color: #f8bba9;
 }
 
 /* Top Banner */
@@ -93,7 +93,7 @@ p {
 	height: 3px;
 	margin-top: 20px;
 	margin-bottom: 30px;
-	background-color: #f5d0c5;
+	background-color: #f8bba9;
 }
 
 .left-banner-content .white-border-button {
@@ -102,7 +102,7 @@ p {
 
 .right-banner-content {
 	padding: 100px 45px;
-	background-color: #f5d0c5;
+	background-color: #f8bba9;
 	text-align: center;
 	min-height: 680px;
 	height: 680px;
@@ -451,7 +451,7 @@ p {
 #owl-testimonial {
 	padding-top: 50px;
 	text-align: center;
-	background-color: #f5d0c5;
+	background-color: #f8bba9;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
@@ -685,7 +685,7 @@ transition-delay: 0.3s;
 	padding-left: 120px;
 	padding-right: 120px;
 	text-align: center;
-	background-color: #f5d0c5;
+	background-color: #f8bba9;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
