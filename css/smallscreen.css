@@ -6,6 +6,10 @@
 	text-align: center;
 }
 
+h1 {
+	font-size: 50px;
+}
+
 .services .col-md-3 {
 	padding-left: 0px;
 	padding-right: 0px;
